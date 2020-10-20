@@ -1,0 +1,36 @@
+.car{
+    border:2px solid gray;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+}
+body{
+    background-color: blanchedalmond;
+    height: auto;
+}
+.attach{
+    padding: 10px 10px;
+    background-color: firebrick;
+    font-size: 20px;
+    color:white;
+    border: none;
+}
+.application{
+    text-align: center;
+    padding: 10px 10px;
+    background-color: firebrick;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    margin: auto;
+    display: block;
+    margin-top: 13px;
+}
